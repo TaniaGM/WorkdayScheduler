@@ -1,5 +1,1 @@
-const startButton = document.getElementById('startButton')
-const nextButton = document.getElementById('nextButton')
-const resultsButton = document.getElementById('resultsButton')
-const submitNameEL = document.getElementById('submitName')
-const viewLeaderboardButtonEL = document.getElementById('viewLeaderboard')
+const 
