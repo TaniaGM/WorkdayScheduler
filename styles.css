@@ -1,0 +1,32 @@
+textarea {
+  resize: none;
+}
+
+.past {
+  background-color: #C0C0C0;
+  border-color: gray;
+}
+
+.current {
+  background-color: #FF6347;
+  border-color: #FF6347;
+}
+
+.future {
+  background-color: #40E0D0;
+  border-color: #40E0D0;
+}
+
+button {
+  background-color: #4682B4;
+  border-radius: 0px 5px 5px 0px;
+}
+
+header {
+  border-bottom-width: 10px;
+  color: rgb(22, 21, 21);
+}
+
+button {
+  font-size: 2em;
+}
