@@ -18,3 +18,5 @@ When employee clicks into a timeblock, they can enter an event.
 When employee clicks the save button for that time block, the text for that event is saved in local storage.
 
 When employee refreshes the page, the saved events persist.
+
+<img width="1264" alt="workday scheduler" src="https://user-images.githubusercontent.com/56511238/73620334-84c02100-4685-11ea-9d90-ecbcaaa98243.png">
